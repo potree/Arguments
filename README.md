@@ -3,7 +3,7 @@
 
 # About
 
-Intented as a replacement of boost::program_options and developed to the extent that is needed by the PotreeConverter.
+Intented as a replacement of boost::program_options and developed to the extent that is needed by the PotreeConverter. (i.e. not built to be robust for all kinds of cases)
 
 # Usage
 
